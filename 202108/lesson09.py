@@ -5,8 +5,6 @@
 # @File : lesson07.py.py
 # @Software: PyCharm
 
-import math
-
 # 计算表达式值
 
 # 1.已知,a=10,b=4,求（a+b)/(a-b)的值
@@ -23,6 +21,7 @@ print('x**2+2*x+1=',y)
 
 
 # 3.求 y=x**2+3*x+2的两个根
+import math
 a=1
 b=3
 c=2
